@@ -1,30 +1,30 @@
 _ABOUT ME_
 # Bruno Darshan Lopes Machado
 
-
+## :v: Oe!
 
 Eu tenho 24 anos, nascido e criado em Teresina, programo desde ~2015.
 
-## Experiências profissionais
+## :paperclip: Experiências profissionais
 
 Trabalhei como Suporte de TI em uma agência de publicidade, onde também atuei em alguns momentos como Designer Gráfico e algumas pontas em comerciais. HAHA
 
 Atualmente atuo como programador no [jus.com.br](jus.com.br) onde além de manter a disponibilidade do serviço como também sob a responsabilidade de desenvolver a plataforma mobile do serviço de [Advogados](jus.com.br/advogados)
 
-## Timeline
+## :calendar: Timeline
 
 - 2010 - Curso de Web Design*
 - 2015 - Regress to TI
 - 2016 - Cursos do Interage*
 - 2017 - Análise e Desenvolvimento de Sistemas
 
-## Interesses Acadêmicos e Proficionais
+## :paperclip: Interesses Acadêmicos e Proficionais
 
 Atualmente a minha pretenção profissional é adquirir **calo**, ou seja, uma vasta experiência nos mais variados cenários de desenvolvimento e análise de sistemas.
 
 Academicamente, me formar já será uma vitória. HA HA!
 
-## Portfólio
+## :bulb: Portfólio
 
 ### :iphone: [Teresina Em Dia](https://play.google.com/store/apps/details?id=com.teresinaemdia)
 
