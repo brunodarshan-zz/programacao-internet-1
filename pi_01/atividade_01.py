@@ -7,10 +7,9 @@ def header_format(headers):
 
 
 def main():
-    response = requests.get('https://api.github.com/users/brunodarshan')
+    response = requests.get('https://swapi.co/api/')
     print(response.status_code)
     header_format(response.headers)
-    # print(response.content_length)
     print(response.text)
 
 if __name__ == "__main__":
